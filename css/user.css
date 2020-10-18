@@ -1,0 +1,51 @@
+body{
+    background-color: skyblue;
+  }
+  
+*{
+    margin: 0;
+}
+header{
+    background-color: darkgrey;
+    overflow: auto;
+    padding: 10px;
+}
+
+.manegement{
+  float: left;
+}
+
+.user{
+  float: right;
+}
+
+.class1{
+      
+    margin: 30px auto;
+    margin-left: 200px ;
+    margin-right: 200px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+span{
+    font-size: 20px;
+}
+
+table.masterlist{
+ width: 800px;
+ border-collapse: collapse;
+}
+
+.thead{
+    background-color: brown;
+    text-align: left;
+}
+table.masterlist td, table.masterlist tr {
+    padding: 5px;
+    border-bottom: 1px solid;
+}
+    
+

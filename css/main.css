@@ -1,0 +1,43 @@
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: skyblue;
+}
+
+.login{
+  width: 350px;
+  margin: 100px auto;
+}
+
+input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+    
+}
+
+button{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.error{
+    background-color: red;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.info{
+    background-color:green;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
